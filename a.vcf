@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.4//EN
+N:;;;;
+FN:Apple (中国大陆)
+ORG:Apple (中国大陆);
+item1.TEL;type=pref:+86 400-627-2273
+item1.X-ABLabel:AppleCare
+item2.TEL:+86 400-666-8800
+item2.X-ABLabel:Apple Store
+item3.ADR;type=WORK;type=pref:;;;;;;中国大陆
+item3.X-ABADR:cn
+item4.URL;type=pref:http://www.apple.com/cn/
+item4.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+REV:2016-04-05T06:40:41Z
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 10.0.2//EN
+N:alice;;;;
+FN:alice
+TEL;type=CELL;type=VOICE;type=pref:18888888888
+REV:2016-11-13T14:20:02Z
+END:VCARD
